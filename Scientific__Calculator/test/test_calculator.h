@@ -1,0 +1,6 @@
+#ifndef TEST_CALCULATOR_H_INCLUDED
+#define TEST_CALCULATOR_H_INCLUDED
+
+nt test_main(void);
+
+#endif // TEST_CALCULATOR_H_INCLUDED

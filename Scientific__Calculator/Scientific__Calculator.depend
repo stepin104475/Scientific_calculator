@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1600482724 source:e:\scientific__calculator\main.c
+	<stdio.h>
+	<math.h>
+
+1597007164 source:e:\scientific__calculator\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1597007164 e:\scientific__calculator\unity\unity.h
+	"unity_internals.h"
+
+1597007164 e:\scientific__calculator\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1600460805 source:e:\scientific__calculator\inc\calculator.h
+
